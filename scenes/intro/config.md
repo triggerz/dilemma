@@ -1,27 +1,18 @@
-# Defaults
+# Case intro
 
-  Since this is markdown you can still have regular text
-  to explain what the hell is going on.
+You are a country manager in ISS Voldavia, working with a senior leadership team of 5.
+You took over the team just 6 months ago (coming from another country), and you are aware that though the team members in general performs well individually,
+the team spirit is relatively low – and Engagement Survey data supports this.
 
-## Upload
+You feel it’s now time for you to step up and take more responsibility for the dynamics in your team – but how?
 
-  - max: 200mb
-  - dir: /tmp
+In the following you will face a series of difficult situations with key colleagues. For each situation you must decide what to do based on a list of 3-4 different options. 
 
-### Thumbnail sizes
+And your choices have consequences: As in real life, your task is to maximixe Engagement and Performance in your team, whilst not overspending Time and resources. You will get instant feedback on every choice. 
 
-  - 50x50
-  - 300x300
-  - 600x600
-  - 900x900
+Enjoy!
+![logo](simpower.png)
 
-## S3
 
-  - api key: 111111
-  - secret: 222222
-
-### Buckets
-
-  - avatars: myapp-avatars
-  - assets: myapp-assets
-  - files: myapp-files
+# Config
+ - Background: https://images.unsplash.com/photo-1493689485253-f07fcbfc731b
