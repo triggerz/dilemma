@@ -1,5 +1,5 @@
 {
   "title": "Leadership Challenges",
   "description" : "This data comes from config.json",
-  "responseServer": "http://localhost:8080/"
+  "responseServer": "https://triggerzapi.eu.ngrok.io/observation/simpower"
 }
