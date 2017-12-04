@@ -1,5 +1,3 @@
-![Brad](brad.png)
-
 # Dilemma 1: Brad
 
 When you started, you were told that Brad was one of your top performers, but that’s not what you have experienced so far.
