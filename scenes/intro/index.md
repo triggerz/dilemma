@@ -1,5 +1,8 @@
-# Case intro
+# Config
+ - Title: Case intro
+ - Next: brad
 
+# Description
 You are a country manager in ISS Voldavia, working with a senior leadership team of 5.
 You took over the team just 6 months ago (coming from another country), and you are aware that though the team members in general performs well individually,
 the team spirit is relatively low – and Engagement Survey data supports this.
@@ -12,8 +15,3 @@ And your choices have consequences: As in real life, your task is to maximixe *E
 
 Enjoy!
 ![logo](simpower.png)
-
-
-# Config
- - Background: https://images.unsplash.com/photo-1493689485253-f07fcbfc731b
- - Next: brad
