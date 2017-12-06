@@ -12,7 +12,7 @@ You know that’s not true. What approach shall you choose?
 
 
 # Choices
-## Keep letting her know that you are there when she need you – but not push her any further (“she must come forward when she is ready to talk”)
+## Keep letting her know that you are there when she need you – but not push her any further (she must come forward when she is ready to talk)
  - time: -1
  - engagement: -1
  - performance: -1
