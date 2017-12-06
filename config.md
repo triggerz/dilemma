@@ -6,5 +6,5 @@
  - time: 100
  - engagement: 100
  - performance: 100
- - total: 0
+ - total: 100
 
