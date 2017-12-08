@@ -5,6 +5,6 @@
 # Variables
  - Resources: 100
  - Engagement: 100
- - Performance: 100
+ - Output: 100
  - Total: 100
 
