@@ -1,10 +1,10 @@
 # Config
- - Title: Leadership Challenges
+ - Title: Daily Dilemmas
  - Initial Scene: intro
 
 # Variables
- - time: 100
- - engagement: 100
- - performance: 100
- - total: 100
+ - Resources: 100
+ - Engagement: 100
+ - Performance: 100
+ - Total: 100
 
