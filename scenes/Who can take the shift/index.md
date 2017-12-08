@@ -1,12 +1,16 @@
 # Config
- - Title: Dilemma 1: Brad
+ - Title: Who to ask to take an extra shift?
 
 # Description
-When you started, you were told that Brad was one of your top performers, but that’s not what you have experienced so far.
-You have no doubt that he is talented, but you feel that he is getting sloppy (resting on the laurels?)
-and often find him being arrogant, especially towards the newer team members.
+There is a flu going round, and you just received a message that Joan will not be coming in tomorrow morning. 
 
-It’s now time for your appraisal dialogue with Brad. What approach shall you choose?
+If you cannot find a replacement, the monthly production targets are in risk of not being met, as the lack of the extra set of hands is likely to slow down the production. 
+
+But: You have already asked around, and no-one wants to take the shift. 
+
+There is no way around it: You have to go back and ask one who have already turned you down the first time you asked. 
+
+Who will you contact next?
 
 # Choices
 ## You tell him exactly how you feel, and try to appeal to him to improve his behavior
