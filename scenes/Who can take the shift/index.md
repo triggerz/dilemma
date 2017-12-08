@@ -18,25 +18,25 @@ Who will you contact next?
  - Engagement: -1
  - Output: +2
  - Total score: round(((engagement * performance) / 100) - (100 - time))
- - next: shift_a
+ - next: Who can take the shift_a
 
 ## Jonas? - When you him asked the first time, he really wanted to help, but couldn't because he had promised to drive his son to the dentist tomorrowself
  - Resources: -1
  - Engagement: -1
  - Output: +2
  - Total score: round(((engagement * performance) / 100) - (100 - time))
- - next: shift_b
+ - next: Who can take the shift_b
 
 ## No-one? - Though it's likely to cost a slightly lower output tomorrow, this is what happens from time to time.
  - Resources: +0
  - Engagement: +0
  - Output: -4
  - Total score: round(((engagement * performance) / 100) - (100 - time))
- - next: shift_c
+ - next: Who can take the shift_c
 
 ## Achmed? - When you him asked the first time, he pointed out that its Friday tomorrow, and that he had planned to visit his mosque. 
  - Resources: -1
  - Engagement: -2
  - Output: +2
  - Total score: round(((engagement * performance) / 100) - (100 - time))
- - next: Shift_d
+ - next: Who can take the shift_d
