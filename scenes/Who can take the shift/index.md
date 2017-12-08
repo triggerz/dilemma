@@ -13,28 +13,32 @@ There is no way around it: You have to go back and ask one who have already turn
 Who will you contact next?
 
 # Choices
-## Lilly? - When you her asked the first time, she answered that she had already taken on two extra shifts in the past 3 weeks, so she did not want to take another one! (but you have a sense that you could talk her into it…)
+## Lilly? 
+When you her asked the first time, she answered that she had already taken on two extra shifts in the past 3 weeks, so she did not want to take another one! (but you have a sense that you could talk her into it…)
  - Resources: -1
  - Engagement: -1
  - Output: +2
  - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
  - next: Who can take the shift_a
 
-## Jonas? - When you him asked the first time, he really wanted to help, but couldn't because he had promised to drive his son to the dentist tomorrowself
+## Jonas?
+When you him asked the first time, he really wanted to help, but couldn't because he had promised to drive his son to the dentist tomorrowself
  - Resources: -1
  - Engagement: -1
  - Output: +2
  - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
  - next: Who can take the shift_b
 
-## No-one? - Though it's likely to cost a slightly lower output tomorrow, this is what happens from time to time.
+## No-one?
+Though it's likely to cost a slightly lower output tomorrow, this is what happens from time to time.
  - Resources: +0
  - Engagement: +0
  - Output: -4
  - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
  - next: Who can take the shift_c
 
-## Achmed? - When you him asked the first time, he pointed out that its Friday tomorrow, and that he had planned to visit his mosque. 
+## Achmed?
+When you him asked the first time, he pointed out that its Friday tomorrow, and that he had planned to visit his mosque. 
  - Resources: -1
  - Engagement: -2
  - Output: +2
