@@ -1,6 +1,7 @@
 # Config
  - Title: Introduction to DAILY DILEMMAS
  - Next: shift
+ - Image: https://flemmingfog.github.io/spike/donut.jpg
 
 # Description
 In the following you will face a series of difficult situations. For each situation you must decide what to do based on a list of 3-4 different options. 
