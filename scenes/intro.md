@@ -1,6 +1,6 @@
 # Config
  - Title: Introduction to DAILY DILEMMAS
- - Next: Who can take the shift
+ - Next: shift
  - Video: youtube.com/kdfjl
 
 # Description
