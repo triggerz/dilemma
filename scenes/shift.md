@@ -1,6 +1,7 @@
 # Config
  - Title: Who to ask to take an extra shift?
  - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Next: outro
 
 # Description
 There is a flu going round, and you just received a message that Joan will not be coming in tomorrow morning. 
