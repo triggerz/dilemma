@@ -19,7 +19,7 @@ Lilly? When you her asked the first time, she answered that she had already take
  - Resources: -1
  - Engagement: -1
  - Output: +2
- - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
+ - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
 You probably picked Lilly because you sensed that she would save yes, and that would solve your problem. The problem is that you often end up asking the same few people. And that make your most flexible people feel misused.   
@@ -34,7 +34,7 @@ Also good that you did not pick to give up. That option must be reserved to case
 
 So - all in all: A good choice - though such situations are never fun. But next time, ask Jonas - so it's not always Lilly that solves the problem. 
 
-*Outcome:*
+# Outcome
 
 You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on Resources) 
 
@@ -46,7 +46,7 @@ Jonas? When you him asked the first time, he really wanted to help, but couldn't
  - Resources: -1
  - Engagement: -1
  - Output: +2
- - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
+ - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
 Many would have asked Lilly first, because they sensed that she would save yes, and that would solve your problem. As you know, the problem is that you often end up asking the same few people. And that make your most flexible people feel misused.    
@@ -62,7 +62,7 @@ Also good that you did not pick to give up. That option must be reserved to case
 So - all in all: A good choice - though such situations are never fun. 
 
 
-*Outcome:*
+# Outcome
 
 You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on Resources) 
 
@@ -75,7 +75,7 @@ No-one? Though it's likely to cost a slightly lower output tomorrow, this is wha
  - Resources: +0
  - Engagement: +0
  - Output: -4
- - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
+ - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
 You gave up too early! That option must be reserved to cases where there are really no more options available. 
@@ -90,7 +90,7 @@ But it was good that you did not pick Achmed, as we must respect that the Friday
 
 
 
-*Outcome:*
+# Outcome
 
 You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
@@ -103,7 +103,7 @@ Achmed? When you him asked the first time, he pointed out that its Friday tomorr
  - Resources: -1
  - Engagement: -2
  - Output: +2
- - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
+ - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
 Picking Achmed was a poor choice as we must respect that the Friday prayers are important to Muslims. So it demonstrated a poor understanding of his cultural values. 
@@ -119,7 +119,7 @@ But great that you did not give up. That option must be reserved to cases where 
 
 
 
-*Outcome:*
+# Outcome
 
 You experienced a positive effect in output (+2) but it costed  in Achmed's engagement (-2) as you spent some time convincing Achmed to accept (-1 on Resources) 
 

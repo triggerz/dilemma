@@ -6,5 +6,5 @@
  - Resources: 100
  - Engagement: 100
  - Output: 100
- - Total score: 100
+ - Total: 100
 
