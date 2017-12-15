@@ -14,9 +14,9 @@ Who will you contact next?
 
 # Choice
 Lilly? When you her asked the first time, she answered that she had already taken on two extra shifts in the past 3 weeks, so she did not want to take another one! (but you have a sense that you could talk her into it…)
- - Resources: -1
 
 # Variables
+ - Resources: -1
  - Engagement: -1
  - Output: +2
  - Total score: round(((Engagement * Output) / 100) - (100 - Resources))
