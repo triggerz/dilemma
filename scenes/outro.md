@@ -1,7 +1,6 @@
 # Config
  - Title: Congratulations
- - Video: https://www.youtube.com/watch?v=S8fbHm0yYQI
-
+ - Video: https://flemmingfog.github.io/spike/donut.jpg
 # Description
-You've completed the daily dilemma.
-You can now go on with your day.
+You've completed the daily dilemmas.
+Enjoy the rest of your day.
