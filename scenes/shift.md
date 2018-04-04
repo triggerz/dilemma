@@ -1,12 +1,12 @@
 # Config
- - Title: Who to ask to take an extra shift?
+ - Title: Who to ask to take an extra turn?
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: outro
 
 # Description
 There is a flu going round, and you just received a message that Joan will not be coming in tomorrow morning. 
 
-If you cannot find a replacement, the monthly production targets are in risk of not being met, as the lack of the extra set of hands is likely to slow down the production. 
+If you cannot find a replacement, the monthly targets are in risk of not being met, as the lack of the extra set of hands is likely to slow things down. 
 
 But: You have already asked around, and no-one wants to take the shift. 
 
