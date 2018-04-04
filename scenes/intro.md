@@ -1,6 +1,6 @@
 # Config
  - Title: Introduction to DAILY DILEMMAS
- - Next: shift
+ - Next: conflict
  - Image: https://flemmingfog.github.io/spike/donut.jpg
 
 # Description
