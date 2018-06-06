@@ -10,4 +10,16 @@
  - Total: 100
  - personal-mentor: 80
 
+# Exports
+ - Resources: false
+ - Engagement: false
+ - Output: false
+ - total: false
+ - personal-mentor: true
 
+# Visible
+ - Resources: false
+ - Engagement: false
+ - Output: false
+ - total: false
+ - personal-mentor: false
