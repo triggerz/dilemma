@@ -1,6 +1,7 @@
 # Config
  - Title: Daily Dilemmas
  - Initial Scene: intro
+ - Max Value: 200
 
 # Variables
  - Resources: 100
