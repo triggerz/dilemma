@@ -8,7 +8,9 @@
  - Engagement: 100
  - Output: 100
  - Total: 100
- - personal-mentor: 80
+ - effective-team: 80
+ - top-talent: 100
+ - communicates: 110
 
 # Exports
  - Resources: false
@@ -16,6 +18,8 @@
  - Output: false
  - total: false
  - personal-mentor: true
+ - top-talent: true
+ - communicates: true
 
 # Visible
  - Resources: false
@@ -23,3 +27,5 @@
  - Output: false
  - total: false
  - personal-mentor: false
+ - top-talent: false
+ - communicates: false
